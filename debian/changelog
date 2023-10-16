@@ -1,8 +1,9 @@
-haskell-http-types (0.12.3-deepin1) unstable; urgency=medium
+haskell-http-types (0.12.3-5) unstable; urgency=medium
 
-  * Rebuild
+  * Declare compliance with Debian policy 4.6.1
+  * Sourceful upload for GHC 9.0.2
 
- -- Deepin Packages Builder <packages@deepin.org>  Mon, 14 Nov 2022 17:39:16 +0800
+ -- Ilias Tsitsimpis <iliastsi@debian.org>  Sat, 23 Jul 2022 11:41:31 +0300
 
 haskell-http-types (0.12.3-4) unstable; urgency=medium
 
